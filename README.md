@@ -16,7 +16,7 @@ This is a simple, interactive Simon Game built with HTML, CSS, and JavaScript. T
 ## 📂 Project Structure
 - `index.html` - Main HTML file for the game interface.
 - `style.css` - Stylesheet for game design.
-- `script.js` - JavaScript file containing the game's core logic.
+- `game.js` - JavaScript file containing the game's core logic.
 
 ## 🚀 How to Run the Project
 1. Clone this repository.
