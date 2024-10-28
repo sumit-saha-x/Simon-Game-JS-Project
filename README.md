@@ -25,3 +25,5 @@ This is a simple, interactive Simon Game built with HTML, CSS, and JavaScript. T
 You can also play the game online: https://sumit-saha-x.github.io/Simon-Game-JS-Project/
 
 ## Here is a sneakpeak from the game!
+<img width="945" alt="Simons_game" src="https://github.com/user-attachments/assets/2e342b74-1902-4789-baf6-0841fec6b749">
+
