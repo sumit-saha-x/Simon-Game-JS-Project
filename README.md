@@ -10,7 +10,7 @@ This is a simple, interactive Simon Game built with HTML, CSS, and JavaScript. T
 
 ## 💻 Technologies Used
 - **HTML**: For the game structure and layout.
-- **CSS**: For styling and visual effects.
+- **CSS**: For styling and visual effects. 
 - **JavaScript**: For game logic and interactivity.
 
 ## 📂 Project Structure
