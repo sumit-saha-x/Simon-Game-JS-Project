@@ -23,3 +23,5 @@ This is a simple, interactive Simon Game built with HTML, CSS, and JavaScript. T
 2. Open index.html in your web browser to start playing.
 ## 🔗 Live Demo
 You can also play the game online: https://sumit-saha-x.github.io/Simon-Game-JS-Project/
+
+## Here is a sneakpeak from the game!
